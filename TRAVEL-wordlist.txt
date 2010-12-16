@@ -1,7 +1,0 @@
-.TRAVEL	travel
-.TRAVEL	outtravel
-.TRAVEL	pretravel
-.TRAVEL	betravel
-.TRAVEL	overtravel
-.TRAVEL	protravel
-.TRAVEL	retravel

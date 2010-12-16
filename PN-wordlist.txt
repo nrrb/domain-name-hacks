@@ -1,4 +1,0 @@
-.PN	corpn
-.PN	lpn
-.PN	prepn
-.PN	sepn

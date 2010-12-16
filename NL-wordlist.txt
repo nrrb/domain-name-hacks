@@ -1,5 +1,0 @@
-.NL	addnl
-.NL	gunl
-.NL	intnl
-.NL	longitudianl
-.NL	unl

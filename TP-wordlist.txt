@@ -1,3 +1,0 @@
-.TP	atp
-.TP	http
-.TP	ptp

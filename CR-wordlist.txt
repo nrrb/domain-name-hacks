@@ -1,2 +1,0 @@
-.CR	katcr
-.CR	vcr

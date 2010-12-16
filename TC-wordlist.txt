@@ -1,6 +1,0 @@
-.TC	gtc
-.TC	otc
-.TC	otopathicetc
-.TC	rotc
-.TC	tc
-.TC	utc

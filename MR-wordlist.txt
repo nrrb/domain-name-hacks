@@ -1,4 +1,0 @@
-.MR	bmr
-.MR	comr
-.MR	mR
-.MR	mr

@@ -1,9 +1,0 @@
-.COOP	coop
-.COOP	scoop
-.COOP	heliscoop
-.COOP	hencoop
-.COOP	outscoop
-.COOP	encoop
-.COOP	uncoop
-.COOP	underscoop
-.COOP	windscoop

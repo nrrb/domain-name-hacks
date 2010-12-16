@@ -1,3 +1,0 @@
-.EDU	teledu
-.EDU	bedu
-.EDU	shedu

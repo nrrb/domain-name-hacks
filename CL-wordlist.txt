@@ -1,7 +1,0 @@
-.CL	boucl
-.CL	cycl
-.CL	hcl
-.CL	indecl
-.CL	jcl
-.CL	lrecl
-.CL	xcl

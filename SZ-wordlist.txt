@@ -1,4 +1,0 @@
-.SZ	grosz
-.SZ	kuvasz
-.SZ	isz
-.SZ	jasz

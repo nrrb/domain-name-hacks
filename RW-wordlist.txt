@@ -1,3 +1,0 @@
-.RW	morw
-.RW	narw
-.RW	starw

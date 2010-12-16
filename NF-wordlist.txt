@@ -1,2 +1,0 @@
-.NF	bnf
-.NF	nF

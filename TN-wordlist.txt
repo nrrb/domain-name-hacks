@@ -1,7 +1,0 @@
-.TN	detn
-.TN	distn
-.TN	iortn
-.TN	pptn
-.TN	pufftn
-.TN	syftn
-.TN	thatn

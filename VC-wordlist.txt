@@ -1,3 +1,0 @@
-.VC	pvc
-.VC	svc
-.VC	vc

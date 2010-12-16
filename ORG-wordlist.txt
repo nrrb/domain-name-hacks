@@ -1,7 +1,0 @@
-.ORG	cyborg
-.ORG	borg
-.ORG	simorg
-.ORG	friborg
-.ORG	goeteborg
-.ORG	goteborg
-.ORG	morg

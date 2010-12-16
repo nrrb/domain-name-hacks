@@ -1,6 +1,0 @@
-.BW	bw
-.BW	dBW
-.BW	nbw
-.BW	nwbw
-.BW	sbw
-.BW	swbw

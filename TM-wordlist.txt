@@ -1,3 +1,0 @@
-.TM	ltm
-.TM	stm
-.TM	tm

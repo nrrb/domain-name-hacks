@@ -1,4 +1,0 @@
-.GL	dougl
-.GL	engl
-.GL	pteroylmonogl
-.GL	puffingl

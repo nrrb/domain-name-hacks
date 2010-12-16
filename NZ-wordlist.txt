@@ -1,6 +1,0 @@
-.NZ	kranz
-.NZ	tendenz
-.NZ	fackeltanz
-.NZ	franz
-.NZ	liederkranz
-.NZ	schanz

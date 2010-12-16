@@ -1,7 +1,0 @@
-.MD	fremd
-.MD	cmd
-.MD	comd
-.MD	dmd
-.MD	ftncmd
-.MD	md
-.MD	mtscmd

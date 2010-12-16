@@ -1,3 +1,0 @@
-.FR	confr
-.FR	refr
-.FR	tfr

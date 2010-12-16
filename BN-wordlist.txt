@@ -1,7 +1,0 @@
-.BN	abn
-.BN	bn
-.BN	ebn
-.BN	exhbn
-.BN	nebn
-.BN	nwbn
-.BN	wbn

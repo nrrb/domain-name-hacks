@@ -1,8 +1,0 @@
-.FI	buffi
-.FI	defi
-.FI	motoscafi
-.FI	ashrafi
-.FI	fi
-.FI	sherifi
-.FI	sufi
-.FI	trionfi

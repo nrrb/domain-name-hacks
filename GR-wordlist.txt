@@ -1,5 +1,0 @@
-.GR	emigr
-.GR	ggr
-.GR	kgr
-.GR	malgr
-.GR	regr

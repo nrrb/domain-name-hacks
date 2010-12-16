@@ -1,7 +1,0 @@
-.PR	apr
-.PR	bkpr
-.PR	copr
-.PR	cpr
-.PR	depr
-.PR	ipr
-.PR	repr

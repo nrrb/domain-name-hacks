@@ -1,5 +1,0 @@
-.IQ	qepiq
-.IQ	tsaddiq
-.IQ	tzaddiq
-.IQ	nastaliq
-.IQ	zindiq
