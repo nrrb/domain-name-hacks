@@ -1,0 +1,6 @@
+.GD	smaragd
+.GD	asgd
+.GD	bkgd
+.GD	gd
+.GD	mgd
+.GD	plongd

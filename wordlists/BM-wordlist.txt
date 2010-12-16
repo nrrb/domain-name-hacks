@@ -1,0 +1,4 @@
+.BM	abm
+.BM	dBm
+.BM	ibm
+.BM	icbm

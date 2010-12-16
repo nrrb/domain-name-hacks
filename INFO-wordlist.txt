@@ -1,0 +1,6 @@
+.INFO	info
+.INFO	cuinfo
+.INFO	gdinfo
+.INFO	guinfo
+.INFO	ldinfo
+.INFO	loadinfo

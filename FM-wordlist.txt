@@ -1,0 +1,3 @@
+.FM	cfm
+.FM	scfm
+.FM	sfm

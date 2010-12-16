@@ -1,0 +1,2 @@
+.NR	jnr
+.NR	lnr

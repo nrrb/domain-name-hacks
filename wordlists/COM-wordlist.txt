@@ -1,0 +1,10 @@
+.COM	intercom
+.COM	sitcom
+.COM	noncom
+.COM	dotcom
+.COM	kidcom
+.COM	nincom
+.COM	syncom
+.COM	telecom
+.COM	sercom
+.COM	vucom

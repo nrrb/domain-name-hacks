@@ -1,0 +1,7 @@
+.PRO	pro
+.PRO	semipro
+.PRO	repro
+.PRO	appro
+.PRO	superpro
+.PRO	cipro
+.PRO	daypro

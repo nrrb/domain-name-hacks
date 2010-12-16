@@ -1,0 +1,16 @@
+.MIL	mil
+.MIL	armil
+.MIL	aumil
+.MIL	verapamil
+.MIL	vermil
+.MIL	wormil
+.MIL	amil
+.MIL	barlafummil
+.MIL	bummil
+.MIL	gromil
+.MIL	landmil
+.MIL	micromil
+.MIL	nymil
+.MIL	sjomil
+.MIL	tamil
+.MIL	uramil

@@ -1,0 +1,15 @@
+.HN	john
+.HN	demijohn
+.HN	autobahn
+.HN	foehn
+.HN	föhn
+.HN	applejohn
+.HN	infobahn
+.HN	behn
+.HN	chn
+.HN	dukhn
+.HN	fuhn
+.HN	hn
+.HN	lieberkuhn
+.HN	mendelssohn
+.HN	tomjohn

@@ -1,0 +1,3 @@
+.BG	bg
+.BG	nbg
+.BG	subg

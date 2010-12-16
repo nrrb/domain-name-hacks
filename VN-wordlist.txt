@@ -1,0 +1,5 @@
+.VN	eevn
+.VN	favn
+.VN	kobenhavn
+.VN	mandragvn
+.VN	thorshavn

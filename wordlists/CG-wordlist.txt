@@ -1,0 +1,2 @@
+.CG	ecg
+.CG	mcg

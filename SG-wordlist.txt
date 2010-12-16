@@ -1,0 +1,3 @@
+.SG	asg
+.SG	pmsg
+.SG	uruisg

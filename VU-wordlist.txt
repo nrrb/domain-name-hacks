@@ -1,0 +1,4 @@
+.VU	cavu
+.VU	imprevu
+.VU	kivu
+.VU	krivu

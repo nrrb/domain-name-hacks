@@ -1,0 +1,8 @@
+.LR	balr
+.LR	bklr
+.LR	heimdallr
+.LR	jodelr
+.LR	lr
+.LR	thulr
+.LR	tlr
+.LR	ullr

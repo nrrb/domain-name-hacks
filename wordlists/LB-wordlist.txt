@@ -1,0 +1,12 @@
+.LB	bulb
+.LB	alb
+.LB	flashbulb
+.LB	lightbulb
+.LB	pseudobulb
+.LB	stilb
+.LB	elb
+.LB	flb
+.LB	glb
+.LB	llb
+.LB	scolb
+.LB	yalb

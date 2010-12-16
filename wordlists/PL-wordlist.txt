@@ -1,0 +1,8 @@
+.PL	apl
+.PL	appl
+.PL	corpl
+.PL	ipl
+.PL	ppl
+.PL	pronpl
+.PL	repl
+.PL	spl

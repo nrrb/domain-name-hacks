@@ -1,0 +1,5 @@
+.WF	dowf
+.WF	howf
+.WF	sowf
+.WF	gowf
+.WF	wowf

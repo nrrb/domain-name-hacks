@@ -1,0 +1,6 @@
+.CD	bcd
+.CD	ebcd
+.CD	gcd
+.CD	gpcd
+.CD	noebcd
+.CD	scd

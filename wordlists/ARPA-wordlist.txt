@@ -1,0 +1,5 @@
+.ARPA	macrocarpa
+.ARPA	scarpa
+.ARPA	amphicarpa
+.ARPA	encarpa
+.ARPA	nyckelharpa

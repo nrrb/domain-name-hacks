@@ -1,0 +1,2 @@
+.BIZ	showbiz
+.BIZ	biz

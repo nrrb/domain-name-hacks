@@ -1,0 +1,11 @@
+.GT	arrgt
+.GT	doigt
+.GT	mgt
+.GT	regt
+.GT	sergt
+.GT	tgt
+.GT	togt
+.GT	ugt
+.GT	ungt
+.GT	vingt
+.GT	vogt

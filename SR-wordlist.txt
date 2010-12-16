@@ -1,0 +1,4 @@
+.SR	dsr
+.SR	esr
+.SR	treasr
+.SR	ussr

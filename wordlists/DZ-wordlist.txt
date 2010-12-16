@@ -1,0 +1,4 @@
+.DZ	adz
+.DZ	lodz
+.DZ	polladz
+.DZ	windz

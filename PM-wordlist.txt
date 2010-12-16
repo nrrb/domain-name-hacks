@@ -1,0 +1,9 @@
+.PM	ppm
+.PM	bpm
+.PM	chuumnapm
+.PM	cpm
+.PM	fpm
+.PM	gpm
+.PM	ipm
+.PM	lpm
+.PM	tpm

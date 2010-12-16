@@ -1,0 +1,10 @@
+.TD	apptd
+.TD	detd
+.TD	dtd
+.TD	itd
+.TD	mtd
+.TD	qtd
+.TD	satd
+.TD	sctd
+.TD	thatd
+.TD	whatd

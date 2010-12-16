@@ -1,0 +1,4 @@
+.TG	contg
+.TG	ctg
+.TG	extg
+.TG	mktg

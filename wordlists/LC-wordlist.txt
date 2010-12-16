@@ -1,0 +1,12 @@
+.LC	talc
+.LC	orichalc
+.LC	precalc
+.LC	alc
+.LC	bisulc
+.LC	calc
+.LC	dulc
+.LC	hdlc
+.LC	megotalc
+.LC	sdlc
+.LC	tlc
+.LC	trisulc

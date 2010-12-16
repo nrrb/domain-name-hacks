@@ -1,0 +1,4 @@
+.AQ	talaq
+.AQ	umiaq
+.AQ	iraq
+.AQ	nasdaq

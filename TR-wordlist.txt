@@ -1,0 +1,7 @@
+.TR	abstr
+.TR	entr
+.TR	ltr
+.TR	natr
+.TR	outr
+.TR	qtr
+.TR	restr

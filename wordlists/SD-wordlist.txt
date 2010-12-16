@@ -1,0 +1,8 @@
+.SD	amusd
+.SD	artsd
+.SD	ejusd
+.SD	esd
+.SD	lsd
+.SD	musd
+.SD	paysd
+.SD	ptsd
