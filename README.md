@@ -21,7 +21,7 @@ My impression of domain hacks is that the name has nothing to do with what the c
 TODO
 ====
 * buy [domainha.xxx and domainha.cc][6]
-
+* speculate endlessly about whether [the new gTLDs][8] will make this obsolete
 
   [0]: http://en.wikipedia.org/wiki/Domain_hack
   [1]: http://xona.com/domainhacks/
@@ -31,3 +31,4 @@ TODO
   [5]: http://www.namecheap.com/
   [6]: http://www.namecheap.com/domains/domain-name-search/results.aspx?domain=domainha&tlds=xxx%2Ccc&searchall=&type=single&
   [7]: http://www.cax.com/domainhacks.com/
+  [8]: https://gtldresult.icann.org/application-result/applicationstatus
