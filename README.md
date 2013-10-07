@@ -30,7 +30,7 @@ Word Sources
 * [wordlist on sourceforge][12] - just a lot of words. in several forms.
 * [google zeitgeist][13] - it's good to remember the word "zeitgeist". too bad these words were the popular ones from yesteryear.
 * [twitter][14] - use this [python library][15] to get the text of the last 24 hours of tweets [from a popular identity][16]. 
-* [google ngrams][17] - a product of digital the world's libraries with [google books][18], they generated and have provided for public download the [linguistic n-grams][19] up to n=5. it would be simplest just to get the alphabetic 1-grams. 
+* [google ngrams][17] - a product of [google books][18] digitizing the world's libraries, they generated and have provided for public download the [linguistic n-grams][19] up to n=5. it would be simplest just to get the alphabetic 1-grams. 
 * raw html - provide the URL and scrape the visible text from the page. 
  
 
